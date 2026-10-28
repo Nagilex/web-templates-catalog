@@ -1,0 +1,19 @@
+
+# Dependencias de Node.js
+node_modules/
+
+# Archivos generados por compilaciones
+dist/
+
+# Variables de entorno y posibles secretos
+.env
+.env.*
+!.env.example
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de registro
+npm-debug.log*
+yarn-debug.log*
